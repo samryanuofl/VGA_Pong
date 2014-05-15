@@ -1,0 +1,1 @@
+A simple game of pong that outputs video to a VGA port. Intended for use with the Papilio FPGA platform using the Logic Start wing. The joystick on the wing is used for controls. 

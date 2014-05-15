@@ -1,0 +1,2 @@
+vhdl isim_temp "pixel_clock.vhd"
+vhdl isim_temp "vgaPong.vhd"

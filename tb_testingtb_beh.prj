@@ -1,0 +1,3 @@
+vhdl work "pixel_clock.vhd"
+vhdl work "vgaPong.vhd"
+vhdl work "tb_testingtb.vhd"
